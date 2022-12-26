@@ -4,8 +4,10 @@ const CONFIG = {
     name: 'Nhân Huỳnh',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     discription: 'Người thích chế',
+    linkedin: 'huynhnhandev',
     email: 'nhan68@outlook.com',
     github: 'huynhnhan3110',
+    instagram: 'huynhnhan.dev',
   },
   projects: [
     {
