@@ -9,8 +9,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: 'Untilled',
-      href: 'https://untilled.web.app'
+      name: 'Indoor Navigation BLE',
+      href: 'https://www.youtube.com/watch?v=lVB7t6Zu1CQ'
     }
   ],
   // blog setting
